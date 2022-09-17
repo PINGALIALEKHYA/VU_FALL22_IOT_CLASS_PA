@@ -10,3 +10,5 @@ Steps describing how to setup the router:
 8. You need to eneter internet and need to set up the router.
 9. Scan it and login through the home wifi with credentials.
 10. Success popup will be displayed and able to access the network.Please find the image attached.
+
+![Image](./image_directory/Router_Setup_image.png.png)
