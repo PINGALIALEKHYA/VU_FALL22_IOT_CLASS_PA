@@ -43,13 +43,29 @@ Login to the DietPi using the wireless access point:
 • Then I checked the Clients tab in my router’s admin panel. I could see a new device DietPi connected to the network. I copied its IP address.
 • Used SSH to login into PI using the below command in my command prompt:
 
+![image](Dietpi_IP_address.png)
+
 ssh root@IPADDR
 password: dietpi (default password)
 
 where, IPADDR is the IP address that I copied from Clients page.
 
+Here are few screenshots of Dietpi Installing.
+![image](DietPI_Downloading.png)
+![image](Dietpi_Downloading_part2.png)
+
 • The PI started installing a lot of updates for about 2-3 minutes after which it disconnected the ssh connection.
+
+Dietpi installed. Here are some of the screenshots:
+![image](Dietpi_Install.png)
+![image](Dietpi_Software.png)
+
 • I once again logged into the PI. This time I was able to change the default password for ‘root’ and ‘dietpi’ users.
+
+Able to login to SSH and change the password.Here are few of the screenshots.
+
+![image](SSH_Login.png)
+![image](SSH_Password_reset.png)
 
 Challenges:
 
