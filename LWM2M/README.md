@@ -10,4 +10,6 @@ https://github.com/PINGALIALEKHYA/VU_FALL22_IOT_CLASS_PA/blob/main/LWM2M/Install
 
 Please also find the URL for the below experiments:
 
+https://github.com/PINGALIALEKHYA/VU_FALL22_IOT_CLASS_PA/blob/main/LWM2M/Experiments.md
+
 
