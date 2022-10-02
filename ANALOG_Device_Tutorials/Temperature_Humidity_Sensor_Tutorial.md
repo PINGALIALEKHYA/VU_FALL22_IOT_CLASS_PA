@@ -41,10 +41,11 @@ Please find the circuit diagram as shown:
 ![image](Ardunio_Circuit.jpg) 
 
 Before starting the experiment, I have plugged all the pins of DTH11 sensor to the ESP32 Wrover. I have also attached the circuit diagram picture. Special thanks to Sowmya as she posted the clear step in order to complete the experiment.
-Downloaded and installed Arduino my windows. Using USB cable connected the ESP32 board to laptop. I have updated the addition URL in preferences. Downloaded the zip folder and included that zip folder in the Arduino. Later I copied the c code from the https://freenove.com/fnk0047/. I uploaded the code in .ino file. I have changed baud rate to 115200 in the serial monito. Eventhough it got compiled but iam unable to get the readings
+Downloaded and installed Arduino my windows. Using USB cable connected the ESP32 board to laptop. I have updated the addition URL in preferences. Downloaded the zip folder and included that zip folder in the Arduino. Later I copied the c code from the https://freenove.com/fnk0047/. I uploaded the code in .ino file. I have changed baud rate to 115200 in the serial monito. I can able to see the temperature and humidity reading.
 Please find the below screenshots of my experiment.
 
- ![image](Arduino_Error.png) 
+
+![image](Ardunio_Reading.jpg) 
  
  
 Third Experiment:
