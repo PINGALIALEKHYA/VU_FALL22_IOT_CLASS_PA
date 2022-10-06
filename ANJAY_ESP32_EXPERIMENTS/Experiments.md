@@ -1,5 +1,5 @@
 
-During class hours I have builded anjay client for my ESP32. Please find the below screenshot.
+During class hours I have builded anjay client for my ESP32. Please find the below screenshot
 
 ![image](ANJAY_CLIENT.png)
 
