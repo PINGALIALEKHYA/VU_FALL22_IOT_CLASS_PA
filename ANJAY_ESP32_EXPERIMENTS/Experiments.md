@@ -3,6 +3,8 @@ During class hours I have builded anjay client for my ESP32. Please find the bel
 
 ![image](ANJAY_CLIENT.png)
 
+Experiment 1: LED Light control Sensor:
+
 Later I have done experiments on light control and push button with the help of Freenove C_Tutorial. Here are the steps to do light control experiment. I 
 1.	Open the menu config as we have done during building of anjay client.
 2.	Need to navigate to component  config.
@@ -23,6 +25,7 @@ Please find the below video of light control circuit.
 
 https://user-images.githubusercontent.com/112524583/194418485-a8789ed5-9670-448c-b19b-92d86cbf183a.mp4
 
+Second Experiment: Push Down sensor 
 
 Here is the second experiment I have done on push button.
 1.	Open the menu config as we have done during building of anjay client.
