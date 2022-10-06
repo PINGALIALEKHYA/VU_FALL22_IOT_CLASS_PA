@@ -18,6 +18,11 @@ Please find the screenshot for circuit diagram for light control.
 
 ![image](CIRCUIT_LIGHT.jpg)
 
+
+Please find the below video of light control circuit.
+
+![video](LIGHT_CONTROL.MP4)
+
 Here is the second experiment I have done on push button.
 1.	Open the menu config as we have done during building of anjay client.
 2.	Need to navigate to component  config.
