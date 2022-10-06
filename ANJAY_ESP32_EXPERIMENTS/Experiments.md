@@ -21,7 +21,8 @@ Please find the screenshot for circuit diagram for light control.
 
 Please find the below video of light control circuit.
 
-![video](LIGHT_CONTROL.MP4)
+https://user-images.githubusercontent.com/112524583/194418485-a8789ed5-9670-448c-b19b-92d86cbf183a.mp4
+
 
 Here is the second experiment I have done on push button.
 1.	Open the menu config as we have done during building of anjay client.
