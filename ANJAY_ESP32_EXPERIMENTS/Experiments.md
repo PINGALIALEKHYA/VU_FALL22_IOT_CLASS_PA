@@ -16,7 +16,7 @@ Problem Faced: I have used the blue color light instead of red in the first but 
 
 Please find the screenshot for circuit diagram for light control.
 
-![image](CIRCUIT_LIGHT.png)
+![image](CIRCUIT_LIGHT.jpg)
 
 Here is the second experiment I have done on push button.
 1.	Open the menu config as we have done during building of anjay client.
@@ -32,7 +32,7 @@ Here is the second experiment I have done on push button.
 
 Please find the screenshot for circuit diagram for push button control.
 
-![image](CIRCUIT_PUSH.png)
+![image](CIRCUIT_PUSH.jpg)
 
 Screebshot before pushing the button.
 
