@@ -1,0 +1,13 @@
+
+Tables Creation:
+
+Create table sensor(sensor_value ENUM('HIGH','LOW),sensor_time_activated DATETIME)
+Create table led_light(led_value ENUM('HIGH','LOW),led_time_activated DATETIME)
+Create table buzzer(buzzer_value ENUM('HIGH','LOW),buzzer_time_activated DATETIME)
+
+
+Insertion of Values:
+
+INSERT INTO sensor(sensor_value, sensor_time_activated) VALUES ( ?, (SELECT(now())));
+INSERT INTO led_light(led_value, led_time_activated) VALUES ( ?, (SELECT(now())));
+INSERT INTO buzzer(buzzer_value, buzzer_time_activated) VALUES ( ?, (SELECT(now())));
